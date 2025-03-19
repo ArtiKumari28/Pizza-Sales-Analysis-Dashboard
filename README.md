@@ -29,6 +29,8 @@
    Power BI is used to create interactive dashboards for visualizing the pizza sales data. The Power BI project file (Pizza Dashboard.pbix) contains the following interactive dashboards:
 
  **📷 Dashboard Overview**
+
+ 
   The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
   * **Trends:** Daily and monthly sales trends.
